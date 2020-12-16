@@ -1,0 +1,106 @@
+{
+    "songs": [
+        {
+            "title": "Back in Black",
+            "artist": "ACDC",
+            "album": "Back in Black",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/back-in-black.png"
+        },
+        {
+            "title": "Hells Bells",
+            "artist": "ACDC",
+            "album": "Back in Black",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/back-in-black.png"
+        },
+        {
+            "title": "Stairway to Heaven",
+            "artist": "Led Zepplin",
+            "album": "Led Zepplin IV",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/led-zepplin-IV.jpg"
+        },
+        {
+            "title": "Black Dog",
+            "artist": "Led Zepplin",
+            "album": "Led Zepplin IV",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/led-zepplin-IV.jpg"
+        },
+        {
+            "title": "Going to California",
+            "artist": "Led Zepplin",
+            "album": "Led Zepplin IV",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/led-zepplin-IV.jpg"
+        },
+        {
+            "title": "Dreams",
+            "artist": "Fleetwood Mac",
+            "album": "Rumours",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/rumours.jpg"
+        },
+        {
+            "title": "Go Your Own Way",
+            "artist": "Fleetwood Mac",
+            "album": "Rumours",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/rumours.jpg"
+        },
+        {
+            "title": "The Chain",
+            "artist": "Fleetwood Mac",
+            "album": "Rumours",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/rumours.jpg"
+        },
+        {
+            "title": "Otherside",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Californication",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/californication.jpg"
+        },
+        {
+            "title": "Scar Tissue",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Californication",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/californication.jpg"
+        },
+        {
+            "title": "Californication",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Californication",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/californication.jpg"
+        },
+        {
+            "title": "Savior",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Californication",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/californication.jpg"
+        },
+        {
+            "title": "Dani California",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Stadium Arcadium",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/stadium-arcadium.jpg"
+        },
+        {
+            "title": "Wet Sand",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Stadium Arcadium",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/stadium-arcadium.jpg"
+        },
+        {
+            "title": "Hey",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Stadium Arcadium",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/stadium-arcadium.jpg"
+        },
+        {
+            "title": "Readymade",
+            "artist": "Red Hot Chili Peppers",
+            "album": "Stadium Arcadium",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/stadium-arcadium.jpg"
+        },
+        {
+            "title": "Pride and Joy",
+            "artist": "Stevie Ray Vaughan",
+            "album": "Texas Flood",
+            "cover_url": "https://jwalls-fun-bucket.s3.amazonaws.com/album-covers/texas-flood.jpg"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "users": [
+      {
+        "username": "bob",
+        "email": "bob@gmail.com",
+        "password": "bob",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "jim",
+        "email": "jim@gmail.com",
+        "password": "jim",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/coloring-book.jpg"
+      },
+      {
+        "username": "tom",
+        "email": "tom@gmail.com",
+        "password": "tom",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "guy",
+        "email": "guy@gmail.com",
+        "password": "guy",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "joe",
+        "email": "joe@gmail.com",
+        "password": "joe",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "zoe",
+        "email": "zoe@gmail.com",
+        "password": "zoe",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "pat",
+        "email": "pat@gmail.com",
+        "password": "pat",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      },
+      {
+        "username": "roy",
+        "email": "roy@gmail.com",
+        "password": "roy",
+        "avatar_url": "https://jwalls-fun-bucket.s3.amazonaws.com/profile-pics/default-profile-pic.jpg"
+      }
+    ]
+  }
