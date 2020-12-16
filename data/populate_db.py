@@ -32,15 +32,13 @@ def main():
     for i, user in enumerate(users_json['users']):
         print(f'user {i}: {user}')
 
-        username = user['username']
-        email = user['email']
         password = str(user['password']).encode('utf-8')
         hashed_password = bcrypt.hashpw(password, bcrypt.gensalt())
 
         query = insert(metadata.tables['users']).values(
             id=i,
-            username=username,
-            email=email,
+            username=user['username'],
+            email=user['email'],
             password=hashed_password,
             created_on=dt.datetime.utcnow(),
             last_login=dt.datetime.utcnow(),
@@ -55,18 +53,14 @@ def main():
 
     for i, song in enumerate(songs_json['songs']):
         print(f'song {i}: {song}')
-        title = song['title']
-        artist = song['artist']
-        album = song['album']
-        cover_url = song['cover_url']
 
         query = insert(metadata.tables['songs']).values(
             id=i,
-            title=title,
-            artist=artist,
-            album=album,
+            title=song['title'],
+            artist=song['artist'],
+            album=song['album'],
             created_on=dt.datetime.utcnow(),
-            cover_url=cover_url
+            cover_url=song['cover_url']
         )
 
         connection.execute(query)
@@ -77,13 +71,11 @@ def main():
 
     for i, user_song in enumerate(usersongs_json['user_songs']):
         print(f'user song {i}: {user_song}')
-        user_id = user_song['user_id']
-        song_id = user_song['song_id']
 
         query = insert(metadata.tables['user_songs']).values(
             id=i,
-            user_id=user_id,
-            song_id=song_id
+            user_id=user_song['user_id'],
+            song_id=user_song['song_id']
         )
 
         connection.execute(query)
